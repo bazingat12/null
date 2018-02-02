@@ -6,7 +6,6 @@
       </TITLE>
    </HEAD>
 <BODY>
+<<<<<<< HEAD
    <H1>Hi</H1>
    <P>This is very minimal "hello worldzzzzzzz" HTML document.</P> 
-</BODY>
-</HTML>
